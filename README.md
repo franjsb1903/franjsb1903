@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-My name is Fran. I am a Full Stack Engineer with a Computer Engineer title by the University of Santiago de Compostela. 
+My name is Fran. I am a Full Stack Engineer with a degree Computer Engineer from the University of Santiago de Compostela. 
 
 I am a really pasionate, proactive person with a great desire to learn and a technology lover.
 
